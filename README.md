@@ -6,7 +6,8 @@
   
   ### 🐾SNS🐾
   <a href="https://www.instagram.com/unc._.3s/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/unc._.3s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/waroong2" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://blog.naver.com/waroong2" target="_blank"><img src="https://img.shields.io/badge/diary-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://three-jun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tech-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
   
   ##
   ### 🛠Tech Stack🛠
