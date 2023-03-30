@@ -5,8 +5,8 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWaRoong2&count_bg=%2327364B&title_bg=%235F7D82&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/WaRoong2))
   
   ### 🐾SNS🐾
-  <a href="https://www.instagram.com/unc._.3s/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://blog.naver.com/waroong2" target="_blank"><img src="https://img.shields.io/badge/03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://www.instagram.com/unc._.3s/?hl=ko" target="_blank"><img src="https://img.shields.io/badge/unc._.3s-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://blog.naver.com/waroong2" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
   
   ##
   ### 🛠Tech Stack🛠
