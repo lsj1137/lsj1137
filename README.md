@@ -30,18 +30,14 @@
   
 </div>
 
-  
-<!--
-**WaRoong2/WaRoong2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+### [ 2020 ]  
+>2020.07  🥈 학습공동체 공모전 (단국대학교) **우수상** *(데이터 분석 기초 학습)*  
+### [ 2021 ]  
+>2021.08  🥉 한국영상자료원 ⌜영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전⌟ **장려상**     
+### [ 2022 ]  
+>2022.08 🥉 제2회 경소톤 (단국대학교) **동상**[🔗](https://github.com/kimyeonhong00/dorazy)   
+>2022.11 🥉 단국대-다우기술 프로그래밍 경진대회 **동상**[🔗](https://github.com/WaRoong2/DKU_DowTech_2022)
+### [ 2023 ]
+>2023.01 ~ 유니티 입문 프로젝트 'Slippery Turtle'[🔗](https://github.com/hamdoheyon/slippery_turtle)  
+>2023.03 ~ 캡스톤디자인 프로젝트 'Passion Leader'[🔗](https://github.com/WaRoong2/PassionLeader)
