@@ -41,5 +41,5 @@
 >2022.08 🥉 제2회 경소톤 (단국대학교) **동상**[🔗](https://github.com/kimyeonhong00/dorazy)   
 >2022.11 🥉 단국대-다우기술 프로그래밍 경진대회 **동상**[🔗](https://github.com/WaRoong2/DKU_DowTech_2022)
 ### [ 2023 ]
->2023.03 ~ 2023.12 캡스톤디자인 프로젝트 'Passion Leader'[🔗](https://github.com/WaRoong2/PassionLeader)
+>2023.03 ~ 2023.12 캡스톤디자인 프로젝트 'Passion Leader'[🔗](https://github.com/WaRoong2/PassionLeader)  
 >2023.12 🥇 단국대 캡스톤디자인 경진대회 **금상** [🔗](https://github.com/WaRoong2/PassionLeader)
