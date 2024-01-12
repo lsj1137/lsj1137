@@ -32,7 +32,7 @@
   ![Unity](https://img.shields.io/badge/unity-FFFFFF.svg?style=for-the-badge&logo=unity&logoColor=black)
   ![C#](https://img.shields.io/badge/csharp-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WaRoong2&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj1137&show_icons=true&theme=transparent)
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
   
 </div>
