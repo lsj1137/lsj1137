@@ -24,7 +24,7 @@
   
   ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-  ##### 🛠Tools
+  ##### 🛠Tools & Infra
   ![Visual Studio Code](https://img.shields.io/badge/VSC-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
   ![AndroidStudio](https://img.shields.io/badge/androidstudio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
