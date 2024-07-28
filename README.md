@@ -5,8 +5,6 @@
 
 
 ## 📚Tech Stack📚
-<br/>
-
 #### 🌝 Main
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -54,8 +52,9 @@
 <br/>
 
 ## 📞Contact📞  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/lsj1137@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/lsj1137jsl@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 📧 e-mail
+**lsj1137jsl**@gmail.com  
+**lsj1137**@naver.com
 
 
 <br/>
