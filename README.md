@@ -50,7 +50,8 @@
 >2023.12 🥇 단국대 캡스톤디자인 경진대회 **금상** [🔗](https://github.com/WaRoong2/Mapssi)
 ### [ 2024 ]
 >2024.03 ~  캡스톤디자인 프로젝트 'GDYD(고대연대)'[🔗]()  
->2024.06 ~ 2024.07 SW중심대학 디지털 경진대회 'Ghost Band(고스트 밴드)'[🔗](https://github.com/lsj1137/GhostBand)  
+>2024.06 ~ 2024.07 SW중심대학 디지털 경진대회 'Ghost Band(고스트 밴드)' [🔗](https://github.com/lsj1137/GhostBand)  
+>2024.08 🥉 SW중심대학 디지털 경진대회 **후원기업상(42MARU)** [🔗](https://github.com/lsj1137/GhostBand)  
 >2024.08 ~ 엘림주식회사 현장실습(교내 인턴십 프로그램) [🔗](https://www.elimsafety.com)
 
 <br/>
