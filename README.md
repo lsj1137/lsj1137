@@ -33,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![EC2](https://img.shields.io/badge/aws_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
+![EC2](https://img.shields.io/badge/aws_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
 <br/>
