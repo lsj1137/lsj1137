@@ -7,18 +7,20 @@
 ## 📚Tech Stack📚
 #### 🌝 Main
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 #### 🌛Sub
-![NodeJS](https://img.shields.io/badge/NodeJS-F7DF1E.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-F7DF1E.svg?style=for-the-badge&logo=node.js&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 #### 🛠Tools & Infra
@@ -31,7 +33,7 @@
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![EC2](https://img.shields.io/badge/aws_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
+![EC2](https://img.shields.io/badge/aws_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
 <br/>
@@ -52,7 +54,9 @@
 >2024.03 ~  캡스톤디자인 프로젝트 'GDYD(고대연대)'[🔗]()  
 >2024.06 ~ 2024.07 SW중심대학 디지털 경진대회 'Ghost Band(고스트 밴드)' [🔗](https://github.com/lsj1137/GhostBand)  
 >2024.08 🥉 SW중심대학 디지털 경진대회 **후원기업상(42MARU)** [🔗](https://github.com/lsj1137/GhostBand)  
->2024.08 ~ 엘림주식회사 현장실습(교내 인턴십 프로그램) [🔗](https://www.elimsafety.com)
+>2024.08 ~ 2024.12 엘림주식회사 현장실습(교내 인턴십 프로그램) [🔗](https://www.elimsafety.com)
+### [ 2025 ]
+>2025.01 ~ 2025.02 HMG SOFTEER BOOTCAMP 5기 [🔗](https://softeerbootcamp.hyundaimotorgroup.com/)
 
 <br/>
 
