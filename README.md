@@ -11,6 +11,7 @@
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,6 +40,9 @@
 ![EC2](https://img.shields.io/badge/aws_ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=black)
 ![Slack](https://img.shields.io/badge/slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
 
+![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)
+![pwa](https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+
 <br/>
 
 ## 🏆Career🏆
@@ -58,7 +62,8 @@
 >2024.08 🥉 SW중심대학 디지털 경진대회 **후원기업상(42MARU)** [🔗](https://github.com/lsj1137/GhostBand)  
 >2024.08 ~ 2024.12 엘림주식회사 현장실습(교내 인턴십 프로그램) [🔗](https://www.elimsafety.com)
 ### [ 2025 ]
->2025.01 ~ 2025.02 HMG SOFTEER BOOTCAMP 5기 [🔗](https://softeerbootcamp.hyundaimotorgroup.com/)
+>2025.01 ~ 2025.02 HMG SOFTEER BOOTCAMP 5기 [🔗](https://softeerbootcamp.hyundaimotorgroup.com/)  
+>2025.02 🥈 소프티어 부트캠프 최종 프로젝트 **우수 소프티어** [🔗](https://github.com/softeer5th/Team5-EQUUS-N)
 
 <br/>
 
