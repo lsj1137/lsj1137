@@ -73,5 +73,5 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsj1137&show_icons=true&theme=transparent)
+![SeJunLim's GitHub stats](https://github-stats.3jun.store/api?username=lsj1137)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
