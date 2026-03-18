@@ -57,7 +57,9 @@
 ### [ 2025 ]
 >2025.01 ~ 2025.02 HMG SOFTEER BOOTCAMP 5기 [🔗](https://softeerbootcamp.hyundaimotorgroup.com/)  
 >2025.02 🥈 소프티어 부트캠프 최종 프로젝트 **우수 소프티어** [🔗](https://github.com/softeer5th/Team5-EQUUS-N)  
->2025.10 ~ 신한DS 금융 SW 아카데미 6기 [🔗](https://shinhanacademy.com/)
+>2025.10 ~ 2026.03 신한DS 금융 SW 아카데미 6기(중퇴) [🔗](https://shinhanacademy.com/)
+### [ 2026 ]
+>2026.03 ~ KCC IT 구매/인사/연구팀 [🔗](https://www.kccworld.co.kr/main.do)
 
 <br/>
 
