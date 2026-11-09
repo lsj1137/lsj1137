@@ -56,20 +56,4 @@
   <img src="https://lsj1137.github.io/stats/dashboard-light.svg" alt="Se Jun Lim's GitHub dashboard" width="100%" />
 </picture>
 
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/stats-dark.svg" />
-  <img src="https://lsj1137.github.io/stats/stats-light.svg" alt="GitHub stats" height="170" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/top-langs-dark.svg" />
-  <img src="https://lsj1137.github.io/stats/top-langs-light.svg" alt="Top languages" height="170" />
-</picture>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/snake-dark.svg" />
-  <img src="https://lsj1137.github.io/stats/snake-light.svg" alt="Contribution snake" width="100%" />
-</picture>
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
