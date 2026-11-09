@@ -56,4 +56,9 @@
   <img src="https://lsj1137.github.io/stats/dashboard-light.svg" alt="Se Jun Lim's GitHub dashboard" width="100%" />
 </picture>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
+<a href="https://solved.ac/lsj1137">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/solvedac-dark.svg" />
+  <img src="https://lsj1137.github.io/stats/solvedac-light.svg" alt="solved.ac lsj1137" width="100%" />
+</picture>
+</a>
