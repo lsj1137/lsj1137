@@ -9,19 +9,22 @@
 <img src="https://skillicons.dev/icons?i=flutter,nodejs,flask,mysql,mongodb" alt="Sub stack" />
 
 #### 🛠 Tools & Infra
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ubuntu,aws,vite,figma" alt="Tools and infra" />
-
-![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![PWA](https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+<img src="https://lsj1137.github.io/icons/tools.svg" alt="Tools and infra" />
 
 <br/>
 
 ## 🏆Career🏆
-### [ 2020 ]  
+<details>
+<summary><b>2020 ~ 2021</b></summary>
+
+#### [ 2020 ]  
 >2020.07  🥈 학습공동체 공모전 (단국대학교) **우수상** *(JAVA 기초 학습)*    
 >2020.07  🥈 학습공동체 공모전 (단국대학교) **우수상** *(데이터 분석 기초 학습 with Python)*  
-### [ 2021 ]  
->2021.08  🥉 한국영상자료원 ⌜영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전⌟ **장려상**     
+#### [ 2021 ]  
+>2021.08  🥉 한국영상자료원 ⌜영화 빅데이터 구축･활용 과제 발굴을 위한 아이디어 공모전⌟ **장려상**
+
+</details>
+
 ### [ 2022 ]  
 >2022.08 🥉 제2회 경소톤 (단국대학교) **동상**[🔗](https://github.com/kimyeonhong00/dorazy)   
 >2022.11 🥉 단국대-다우기술 프로그래밍 경진대회 **동상**[🔗](https://github.com/WaRoong2/DKU_DowTech_2022)
@@ -55,6 +58,10 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/dashboard-dark.svg" />
   <img src="https://lsj1137.github.io/stats/dashboard-light.svg" alt="Se Jun Lim's GitHub dashboard" width="100%" />
 </picture>
+
+<br/>
+
+## 🧩Algorithm Problem Solving🧩
 
 <a href="https://solved.ac/lsj1137">
 <picture>
