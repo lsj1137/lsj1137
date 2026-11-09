@@ -71,5 +71,5 @@
 
 <br/>
 
-![SeJunLim's GitHub stats](https://github-stats.3jun.store/api?username=lsj1137)
+![SeJunLim's GitHub stats](https://lsj1137.github.io/stats/stats.svg)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
