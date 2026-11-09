@@ -3,38 +3,16 @@
 
 ## 📚Tech Stack📚
 #### 🌝 Main
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-663399.svg?style=for-the-badge&logo=css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,java,spring,python" alt="Main stack" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+#### 🌛 Sub
+<img src="https://skillicons.dev/icons?i=flutter,nodejs,flask,mysql,mongodb" alt="Sub stack" />
 
-#### 🌛Sub
-![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-F7DF1E.svg?style=for-the-badge&logo=node.js&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+#### 🛠 Tools & Infra
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,ubuntu,aws,vite,figma" alt="Tools and infra" />
 
-![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🛠Tools & Infra
-![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![GithubActions](https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
-![EC2](https://img.shields.io/badge/ec2-FF9900.svg?style=for-the-badge&logo=ec2&logoColor=black)
-![RDS](https://img.shields.io/badge/RDS-FF9900.svg?style=for-the-badge&logo=RDS&logoColor=black)
-
-![vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=yellow)
-![pwa](https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-85EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![PWA](https://img.shields.io/badge/pwa-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 <br/>
 
@@ -71,5 +49,27 @@
 
 <br/>
 
-![SeJunLim's GitHub stats](https://lsj1137.github.io/stats/stats.svg)
+## 📊GitHub Activity📊
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/dashboard-dark.svg" />
+  <img src="https://lsj1137.github.io/stats/dashboard-light.svg" alt="Se Jun Lim's GitHub dashboard" width="100%" />
+</picture>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/stats-dark.svg" />
+  <img src="https://lsj1137.github.io/stats/stats-light.svg" alt="GitHub stats" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/top-langs-dark.svg" />
+  <img src="https://lsj1137.github.io/stats/top-langs-light.svg" alt="Top languages" height="170" />
+</picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lsj1137.github.io/stats/snake-dark.svg" />
+  <img src="https://lsj1137.github.io/stats/snake-light.svg" alt="Contribution snake" width="100%" />
+</picture>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsj1137)](https://solved.ac/lsj1137)
